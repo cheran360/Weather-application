@@ -1,0 +1,29 @@
+#sec1 {
+  background-color: rgba(182, 227, 238, 0.24);
+  padding: 50px 50px;
+  color: rgb(2, 29, 27);
+  font-family: "Kirang Haerang", cursive;
+  font-weight: lighter;
+  font-size: 80px;
+  text-align: center;
+}
+#sec2 {
+  padding: 50px 50px;
+  color: rgb(2, 29, 27);
+  font-family: "Kirang Haerang", cursive;
+  font-weight: lighter;
+  text-align: center;
+}
+#formGroupExampleInput {
+  width: 500px;
+  margin: 20px auto;
+}
+#sec3 {
+  background-color: rgba(204, 238, 160, 0.24);
+  padding: 50px 50px 150px 50px;
+  color: rgb(2, 29, 27);
+  font-family: "Kirang Haerang", cursive;
+  font-weight: lighter;
+  font-size: 40px;
+  text-align: center;
+}
